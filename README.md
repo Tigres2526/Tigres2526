@@ -6,6 +6,6 @@ image models from scratch.
 codecs, svg tracers, renderers.
 training methods, frameworks, the occasional new language.
  
-made slow, with real intent — 物作り (*monozukuri*).
+the art of making things well— 物作り
  
 [caistrolabs.com](https://caistrolabs.com)
