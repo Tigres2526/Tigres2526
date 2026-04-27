@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**Tigres2526/Tigres2526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+▚▚ caistro labs
+```
+ 
+### building imagery intelligence
+ 
+---
+ 
+```
+◐ image models, from scratch
+◐ codecs · svg tracers · renderers
+◐ training methods · frameworks
+◐ the occasional new language
+```
+ 
+---
+ 
+> quality from slow effort.
+> made with intent, not speed.
+> inspired by 物作り — *monozukuri*.
+ 
+---
+ 
+`→` [caistrolabs.com](https://caistrolabs.com)
+ 
