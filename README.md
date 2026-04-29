@@ -1,6 +1,6 @@
 ### ▚▚ caistro labs
  
-# building imagery intelligence
+# building image models that render reality
 
 image models, codecs, renderers — made the slow way.
 物作り.
