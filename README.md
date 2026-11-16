@@ -1,6 +1,6 @@
 ### ▚▚ caistro labs
  
-# building superintelligence that runs on your hardware.
+# making superintelligence small enough to own.
 
 物作り.
  
